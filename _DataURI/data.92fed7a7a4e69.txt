@@ -1,0 +1,1 @@
+chrome-extension://mbopgmdnpcbohhpnfglgohlbhfongabi/sideex/content/escape.js

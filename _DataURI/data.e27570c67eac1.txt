@@ -1,0 +1,1 @@
+chrome-extension://mbopgmdnpcbohhpnfglgohlbhfongabi/dist/jquery-ui.min.js

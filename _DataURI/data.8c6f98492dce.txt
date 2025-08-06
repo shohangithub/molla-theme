@@ -1,0 +1,1 @@
+chrome-extension://mbopgmdnpcbohhpnfglgohlbhfongabi/dist/record-replay/index.js

@@ -1,0 +1,1 @@
+chrome-extension://fkjngjgmgbfelejhbjblhjkehchifpcj/rules/target.js
